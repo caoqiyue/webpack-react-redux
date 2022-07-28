@@ -1,0 +1,9 @@
+@import url("./styles/reset.css");
+
+body {
+  font-size: 14px;
+}
+
+#root {
+  height: 100%;
+}
